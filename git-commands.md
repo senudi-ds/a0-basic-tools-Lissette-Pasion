@@ -22,10 +22,12 @@ cd a0-basic-tools-senudi-ds
 cd ~/Desktop/a0-basic-tools-senudi-ds/images/COVID-19-Visualizations/covid-example-2.png
 
 # (7) Add all of the changes that you've made to this file with git [1 point]
-
+git add .  git-commands.md
 
 # (8) Commit these changes, and include a *descriptive message* [2 points]
+git commit -m "writing terminal code following instructions given" git-commands.md
 
 # (9) Finally, push your changes to GitHub [1 point]
+git push
 
 ```
