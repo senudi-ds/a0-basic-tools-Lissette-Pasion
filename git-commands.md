@@ -28,7 +28,7 @@ git add .  git-commands.md
 git commit -m "writing terminal code following instructions given" git-commands.md
 
 # (9) Finally, push your changes to GitHub [1 point]
-git push 
+git push er
 
 
 ```
